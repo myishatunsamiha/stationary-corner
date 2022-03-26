@@ -1,0 +1,42 @@
+.product {
+    height: 430px;
+    max-width: 250px;
+    margin-bottom: 100px;
+    background-color: rgb(231, 207, 161);
+    border-radius: 10px;
+    position: relative;
+    border: none;
+}
+
+.product:hover {
+    background-color: rgb(202, 169, 108);
+    box-shadow: 10px 5px 10px rgb(43, 29, 5);
+}
+
+.product img {
+    width: 96%;
+    height: 260px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.product-info {
+    margin-left: 10px;
+}
+
+.product button {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 12px;
+    font-weight: bold;
+    border: none;
+    background-color:rgb(43, 29, 5);
+    color: whitesmoke;
+    border-radius: 0 0 10px 10px;
+}
+
+.product button:hover {
+    background-color: rgb(141, 68, 8);
+    box-shadow: 10px 5px 10px rgb(139, 112, 61);
+}
