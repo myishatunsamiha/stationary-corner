@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "ques": "Q. How does react work?",
+        "ans": "Ans:Browser's DOM(Document Object Model) manipulation is a very time consuming and costly process. To make the process faster and increase the performance, virtual dom plays a vital role. Virtual dom is the copy/blueprint of the original dom tree which is kept inside the memory and synced with the real dom using ReactDOM library. Whenever any changes occur on the react folder, the virtual dom compares the latest virtual dom tree with the screenshot of the previously(just before modification) taken virtual dom tree . Using diffing algorithm, it figures out in which places/nodes the actual changes have occurred. Then react only changes the required nodes on the real dom and keeps the rest of real dom tree nodes untouched."
+    },
+    {
+        "id": "2",
+        "ques": "Q. What are the difference between props and states?",
+        "ans": "Ans: Props are used to flow data between the components to make the front-end dynamic. On the other hand, states are used to keep track of any state/data change of a component. A state is connected to a specific component, but props can be shared among components in a parent to child manner. State is mutable that means it can be changed using a setState function. On the contrary, Props can't be changed inside a component that means props are immutable."
+    },
+    {
+        "id": "3",
+        "ques": "Q.How does useState work?",
+        "ans": "Ans: useState is a react hook. It keeps track of a component's state variable. useState function takes the initial state as function argument and returns an array of two elements. The first element holds the initial state at the first stage and the second element updates/sets the value of the first element afterwards. useState is local to a component."
+    }
+]
