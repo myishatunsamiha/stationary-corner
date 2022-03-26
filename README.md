@@ -1,6 +1,6 @@
 # Stationary Corner
 
-### <span style="color:blue"> *Live Website Link* </span> 
+###  [Live Website Link*](http://localhost:3000)
 
 link: [http://localhost:3000](http://localhost:3000)
 
