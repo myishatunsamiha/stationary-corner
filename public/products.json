@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1001",
+        "name": "Cello Pen",
+        "price": 15,
+        "img": "./images/cello-pen.jpg"
+    },
+    {
+        "id": "1002",
+        "name": "Econo Pen",
+        "price": 10,
+        "img": "./images/econo-pen.png"
+    },
+    {
+        "id": "1003",
+        "name": "Faber Castell Pencil",
+        "price": 10,
+        "img": "./images/castell-pencil.jpg"
+    },
+    {
+        "id": "1004",
+        "name": "Color Pencil",
+        "price": 60,
+        "img": "./images/color-pencil.jpg"
+    },
+    {
+        "id": "1005",
+        "name": "Diary",
+        "price": 80,
+        "img": "./images/diary.jpg"
+    },
+    {
+        "id": "1006",
+        "name": "Eraser",
+        "price": 10,
+        "img": "./images/eraser.jpg"
+    },
+    {
+        "id": "1007",
+        "name": "Linc Lycer Pen",
+        "price": 15,
+        "img": "./images/linc-pen.jpg"
+    },
+    {
+        "id": "1008",
+        "name": "Matador Pen",
+        "price": 5,
+        "img": "./images/matador.jpg"
+    },
+    {
+        "id": "1009",
+        "name": "Nataraj Pencil",
+        "price": 8,
+        "img": "./images/nataraj-pencil.jpg"
+    },
+    {
+        "id": "1010",
+        "name": "Notebook",
+        "price": 60,
+        "img": "./images/notebook.jpg"
+    },
+    {
+        "id": "1011",
+        "name": "Scale",
+        "price": 25,
+        "img": "./images/scale.jpeg"
+    },
+    {
+        "id": "1012",
+        "name": "Sharpener",
+        "price": 60,
+        "img": "./images/sharpener.jpg"
+    }
+]
