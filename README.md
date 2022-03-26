@@ -1,6 +1,6 @@
 # Stationary Corner
 
-###  [Live Website Link*](http://localhost:3000)
+###  [Live Website Link](http://localhost:3000)
 
 link: [http://localhost:3000](http://localhost:3000)
 
