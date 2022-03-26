@@ -12,7 +12,7 @@ const CartItem = (props) => {
             }
 
             {
-                name ? <h4>{name}</h4> : <></>
+                name ? <h5>{name}</h5> : <></>
             }
 
             {

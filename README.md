@@ -1,8 +1,8 @@
 # Stationary Corner
 
-###  [Live Website Link](http://localhost:3000)
+###  [Live Website Link](https://stationary-corner-myishatunsamiha.netlify.app/)
 
-link: [http://localhost:3000](http://localhost:3000)
+link: [https://stationary-corner-myishatunsamiha.netlify.app/](https://stationary-corner-myishatunsamiha.netlify.app/)
 
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
